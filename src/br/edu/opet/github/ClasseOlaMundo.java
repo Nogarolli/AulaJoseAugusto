@@ -15,7 +15,7 @@ public class ClasseOlaMundo
      */
     public static void main(String[] args)
     {
-        System.out.println("Olá MUndoo");
+        System.out.println("Olá Mundoo");
 
 
     }
