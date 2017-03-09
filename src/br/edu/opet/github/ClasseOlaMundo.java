@@ -16,10 +16,6 @@ public class ClasseOlaMundo
     public static void main(String[] args)
     {
         System.out.println("Olá Mundo34");
-=======
-        System.out.println("45261864964594596645");
->>>>>>> refs/heads/01
-
 
     }
 
